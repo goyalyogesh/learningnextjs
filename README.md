@@ -23,6 +23,10 @@ Features:
 - Image and font optimization
 - React server Components
 - Middleware
+- Opinionated Framework
+- Built-in-file-based router
+- Node.js server for dynamic routes
+  
 
 
 
