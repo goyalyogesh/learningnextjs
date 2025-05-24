@@ -28,5 +28,13 @@ Features:
 - Node.js server for dynamic routes
   
 
+  npx create-next-app@latest
+
+  Pages: is UI that is unique to a route. It is always the leaf of the route subtree.
+  - Page is UI unique to a route
+  - Required to make routes publicly accessible
+  - Can fetch data
+  - Server Components(can be set to Client Component)
+  - jsx,js,tsx are supoorted file extensions
 
 
